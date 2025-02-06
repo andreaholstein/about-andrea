@@ -1,6 +1,6 @@
 # hello/salut – I'm andrea 👋
 
-✨ a Full-Stack Software Engineer & Digital Strategist energized by bringing groovy web applications to life. With a background in digital strategy consultations, I'm passionate about serving as a cross-functional collaboration liaison in organizations, whether as a Technical Product or Project Manager, Developer Advocate, or a sibling role, translating business requirements into technical requirements, ensuring teams are on the same page & able to do their best work, together!
+✨ a Full-Stack Software Engineer & Digital Strategist energized by bringing groovy web applications to life. With a background in digital strategy consultations, I'm passionate about serving as a cross-functional collaboration liaison in organizations—whether as a Technical Product or Project Manager, Developer Advocate, or a sibling role—translating business requirements into technical requirements, & ensuring teams are on the same page & able to do their best work, together!
 
 Exceptionally charismatic, I love talking to people & discovering their needs — if your tech team's "rolls for charisma" are often low—& no one volunteers to do the write-ups, demos & presentations—drop me a DM 💬 
 
